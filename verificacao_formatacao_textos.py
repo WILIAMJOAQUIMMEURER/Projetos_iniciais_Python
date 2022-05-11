@@ -1,4 +1,4 @@
-# Este Programa é para podermos formatar algo
+# Este Programa é para podermos formatar e verificar algo
 print('********* Bem Vindo **********')
 print('***Projeto Iniciando Python***')
 
